@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.Biletinial.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Biletinial.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Biletinial.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
